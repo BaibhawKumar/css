@@ -1,0 +1,52 @@
+body{
+  margin: 0px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+h1{
+font-family: 'Sacramento', cursive;
+font-size: 70px;
+margin: 0;
+}
+.middle-container{
+color: black;
+margin-top: 10px;
+}
+.bottom-container{
+
+}
+.top_container{
+  color: grey;
+  top: 30px;
+  padding-top: 150px;
+  background-color: #DDDDDD;
+}
+.bot-cloud{
+  height: 100px;
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.skill{
+  height:380px;
+  border-radius: 100%;
+  background-color: #BBE1FA;
+}
+.top-cloud{
+  height: 100px;
+  right: 300px;
+  top:150px;
+  position: absolute;
+}
+.mountain{
+  height: 340px;
+}
+.skill-row{
+}
+.dp{
+  height: 200px;
+}
+p{
+  font-family: 'Merriweather', serif;
+  font-weight: bold;
+}
